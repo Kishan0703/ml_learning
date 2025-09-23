@@ -5,3 +5,5 @@ matplotlib
 ipykernel
 nltk
 kagglehub
+xgboost
+libomp
