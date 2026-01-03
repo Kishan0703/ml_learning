@@ -1,2 +1,0 @@
-The data sets ate taken from kaggle. Do visit kaggle for downloading remaining data sets.
-texting github green squares issue
